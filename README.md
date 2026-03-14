@@ -56,17 +56,25 @@ A real-time Steam player tracking dashboard built with Next.js, Convex, and the 
 
 ## 📸 Screenshots
 
-### Dashboard - Grid View
-![Grid View](./screenshots/grid-view.png)
-*Compact card layout with inline mini charts showing player trends*
+### Dashboard Overview
+![Dashboard](./screenshots/dashboard.png)
+*Main dashboard showing total players online, games tracked, update frequency, active discounts, latest news, and trending games with the table view of top games*
 
-### Dashboard - Table View
-![Table View](./screenshots/table-view.png)
-*Comprehensive table with 100 games, sparkline charts, and detailed stats*
+### Grid View
+![Grid View](./screenshots/grid.png)
+*Compact card layout with game thumbnails, inline charts showing 24-hour player trends, and key statistics for each game*
 
-### Game Detail Page
-![Game Detail](./screenshots/game-detail.png)
-*Detailed game information with blurred background, screenshots, and full history*
+### Table View
+![Table View](./screenshots/table.png)
+*Comprehensive table displaying 100 games with sparkline charts, developer info, pricing, ratings, and detailed player statistics*
+
+### Game Detail Page - Overview
+![Game Detail](./screenshots/detail.png)
+*Detailed game page with blurred background, game description, current/peak/all-time player statistics, review scores, and screenshot gallery*
+
+### Game Detail Page - Information
+![Game Detail 2](./screenshots/detail-2.png)
+*Game information section showing developer, publisher, release date, pricing, genres, features, tags, and supported languages*
 
 ## 🚀 Getting Started
 
